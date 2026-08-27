@@ -1,1 +1,0 @@
-High-resolution gallery restoration in progress.
