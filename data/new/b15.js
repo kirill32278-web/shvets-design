@@ -1,1 +1,0 @@
-window.NEW_PRODUCTS=window.NEW_PRODUCTS||[];window.NEW_PRODUCTS.push({"title":"Lady G","tag":"Кресло с оттоманкой","desc":"hair with ottoman Lady G. Winner of the Design and design international award. Пуф Lady G. Корпус из стеклопластика","spec":[],"count":3,"sprite":"data:image/webp;base64,UklGRiQT..."});
