@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>SHVETS DESIGN — preview propeller photo 6</title>
+<title>SHVETS DESIGN — preview propeller background photo 6</title>
 <style>
 html,body{margin:0;width:100%;height:100%;background:#111a20;overflow:hidden}
 iframe{display:block;width:100%;height:100%;border:0;background:#111a20}
 </style>
 </head>
 <body>
-<iframe id="site" src="./?propeller-preview=photo6" title="SHVETS DESIGN preview"></iframe>
+<iframe id="site" src="./?propeller-preview=background-photo6" title="SHVETS DESIGN preview"></iframe>
 <script>
 const frame=document.getElementById('site');
 frame.addEventListener('load',()=>{
@@ -29,7 +29,6 @@ frame.addEventListener('load',()=>{
       const photo6=DATA[0].images[5];
       const media=card.querySelector('.card-media') || card;
       let bg=card.querySelector('.cover-natural-bg');
-      let img=card.querySelector('.single-cover') || media.querySelector('img');
 
       if(bg){
         bg.style.inset='0';
@@ -47,21 +46,8 @@ frame.addEventListener('load',()=>{
         media.style.backgroundRepeat='no-repeat';
       }
 
-      if(img){
-        img.src=photo6;
-        img.style.objectFit='contain';
-        img.style.objectPosition='center';
-        img.style.width='100%';
-        img.style.height='100%';
-        img.style.filter='none';
-        img.style.position='relative';
-        img.style.zIndex='1';
-      }
-
-      if(media){
-        media.style.backgroundColor='transparent';
-      }
-      card.setAttribute('data-preview','propeller-photo-6');
+      if(media) media.style.backgroundColor='transparent';
+      card.setAttribute('data-preview','propeller-background-photo-6');
     };
     apply();
   })();`;
