@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SHVETS DESIGN — preview propeller photo 6</title>
+<style>
+html,body{margin:0;width:100%;height:100%;background:#111a20;overflow:hidden}
+iframe{display:block;width:100%;height:100%;border:0;background:#111a20}
+</style>
+</head>
+<body>
+<iframe id="site" src="./?propeller-preview=photo6" title="SHVETS DESIGN preview"></iframe>
+<script>
+const frame=document.getElementById('site');
+frame.addEventListener('load',()=>{
+  const doc=frame.contentDocument;
+  const patch=doc.createElement('script');
+  patch.textContent=`
+  (()=>{
+    let tries=0;
+    const apply=()=>{
+      tries++;
+      const card=document.querySelector('#grid .card');
+      if(!card || typeof DATA==='undefined' || !DATA[0] || !DATA[0].images || !DATA[0].images[5]){
+        if(tries<120) setTimeout(apply,100);
+        return;
+      }
+      const photo6=DATA[0].images[5];
+      const media=card.querySelector('.card-media') || card;
+      let bg=card.querySelector('.cover-natural-bg');
+      let img=card.querySelector('.single-cover') || media.querySelector('img');
+
+      if(bg){
+        bg.style.inset='0';
+        bg.style.backgroundImage='url("'+photo6+'")';
+        bg.style.backgroundSize='cover';
+        bg.style.backgroundPosition='center';
+        bg.style.backgroundRepeat='no-repeat';
+        bg.style.filter='none';
+        bg.style.transform='none';
+        bg.style.opacity='1';
+      }else if(media){
+        media.style.backgroundImage='url("'+photo6+'")';
+        media.style.backgroundSize='cover';
+        media.style.backgroundPosition='center';
+        media.style.backgroundRepeat='no-repeat';
+      }
+
+      if(img){
+        img.src=photo6;
+        img.style.objectFit='contain';
+        img.style.objectPosition='center';
+        img.style.width='100%';
+        img.style.height='100%';
+        img.style.filter='none';
+        img.style.position='relative';
+        img.style.zIndex='1';
+      }
+
+      if(media){
+        media.style.backgroundColor='transparent';
+      }
+      card.setAttribute('data-preview','propeller-photo-6');
+    };
+    apply();
+  })();`;
+  doc.documentElement.appendChild(patch);
+});
+</script>
+</body>
+</html>
