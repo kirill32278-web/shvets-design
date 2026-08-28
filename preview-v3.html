@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>SHVETS DESIGN — preview v3</title>
+<style>
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%;background:#1b272e;color:#eef2f4;font-family:Arial,Helvetica,sans-serif}
+body{
+  background:
+    radial-gradient(ellipse at 55% -8%,rgba(190,211,220,.16),transparent 38%),
+    repeating-linear-gradient(90deg,rgba(255,255,255,.018) 0,rgba(255,255,255,.004) 1px,transparent 2px,transparent 11px),
+    linear-gradient(180deg,#344149 0%,#2a373e 34%,#202c33 68%,#172229 100%);
+  background-attachment:fixed;
+}
+.hero{
+  width:100%;
+  aspect-ratio:1672/400;
+  min-height:260px;
+  max-height:520px;
+  overflow:hidden;
+  background:#17242b;
+  border-bottom:1px solid rgba(235,243,246,.14);
+}
+.hero img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center top;
+}
+.metal{
+  min-height:520px;
+  padding:34px 4.7vw;
+  background:
+    radial-gradient(ellipse at 50% -16%,rgba(151,176,188,.16),transparent 42%),
+    repeating-linear-gradient(90deg,rgba(255,255,255,.013) 0,rgba(255,255,255,.002) 1px,transparent 2px,transparent 11px),
+    linear-gradient(180deg,rgba(47,61,69,.94),rgba(35,48,55,.96) 48%,rgba(25,37,43,.98));
+}
+.label{font-size:18px;letter-spacing:5px;text-transform:uppercase;font-weight:400}
+.note{margin-top:7px;color:#89979f;font-size:13px}
+@media(max-width:700px){.hero{min-height:0;aspect-ratio:1672/400}.metal{padding:24px 18px}.label{font-size:14px;letter-spacing:3px}}
+</style>
+</head>
+<body>
+  <section class="hero">
+    <img src="./assets/hero-reference.webp?v=v3-clean" alt="SHVETS DESIGN — авторские объекты">
+  </section>
+  <section class="metal">
+    <div class="label">КАТАЛОГ ОБЪЕКТОВ</div>
+    <div class="note">Тест: только заставка и утверждённый холодный металлический фон.</div>
+  </section>
+</body>
+</html>
