@@ -1,0 +1,1 @@
+(async()=>{const t=await fetch('assets/hero-reference.b64?x=1').then(r=>r.text());const b=Uint8Array.from(atob(t.trim()),c=>c.charCodeAt(0));const u=URL.createObjectURL(new Blob([b],{type:'image/webp'}));const e=document.querySelector('.hero-exact');if(e)e.style.backgroundImage=`url(${u})`;})();
