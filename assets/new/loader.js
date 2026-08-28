@@ -1,1 +1,109 @@
-window.NEW_IMAGES=window.NEW_IMAGES||{};window.NEW_OBJECTS=[{"title":"Kitty LG","tag":"Кресло / plywood & leather","desc":"Kitty LG — авторское кресло из тонированной фанеры и кожи. Выразительный силуэт строится на сочетании пластики формы и контрастной фактуры материалов.","spec":[["Материалы","тонированная фанера, кожа"],["Высота","95 см"]],"keys":["kitty-lg__photo-01","kitty-lg__photo-02"]},{"title":"Trophy LadyG","tag":"Светильник / table & floor lamp","desc":"Trophy LadyG — светильник, задуманный в настольной и напольной версиях. В образе соединены зелёный мрамор и металлическая отделка под золото.","spec":[["Формат","настольный / напольный"],["Высота","70 / 170 см"],["Материалы","зелёный мрамор, металл под золото"]],"keys":["trophy-ladyg__photo-01"]},{"title":"Серпантин","tag":"Полубарный стул / металл","desc":"Металлический полубарный стул «Серпантин». Финалист конкурса «Придумано и сделано в России», экспонировался во Всероссийском музее декоративного искусства.","spec":[["Материал","металл"],["Технологии","холодная ковка, сварка, полировка, лакокрасочное покрытие"],["Статус","финалист «Придумано и сделано в России»"]],"keys":["serpentine__photo-01","serpentine__photo-02","serpentine-semibar__photo-01"]},{"title":"Satellites / Спутник","tag":"Светильник / award-winning design","desc":"Светильник Satellites — победитель международной премии Design and Design, Франция, 2016.","spec":[["Награда","Design and Design international award"],["Год","2016"],["Страна премии","Франция"]],"keys":["satellites__photo-01","satellites__photo-02","satellites__photo-03","satellites__photo-04"]},{"title":"Perfect Illusion","tag":"Арт-объект / aluminium / 2016","desc":"Perfect Illusion — авторский объект из алюминия, созданный в 2016 году. Проект построен на эффекте визуальной иллюзии и чистой металлической пластике.","spec":[["Материал","алюминий"],["Год","2016"]],"keys":["perfect-illusion__photo-01","perfect-illusion__photo-02","perfect-illusion__photo-03","perfect-illusion__photo-04"]},{"title":"Applause","tag":"Люстра / световой объект","desc":"Люстра Applause — авторский световой объект. Проект был отмечен журналом «Интерьер+Дизайн» и вошёл в подборку пяти элегантных светильников.","spec":[["Тип","люстра / световой объект"],["Публикация","Интерьер+Дизайн"]],"keys":["applause__photo-01","applause__photo-02","applause__photo-03","applause__photo-04","applause__photo-05","applause__photo-06"]},{"title":"Decollete Chair","tag":"Кресло / предметный дизайн","desc":"Decollete Chair — авторское кресло с выразительным силуэтом. В архиве проекта представлены два ракурса объекта.","spec":[["Тип","кресло"],["Проект","авторский предметный дизайн"]],"keys":["decollete-chair__photo-01","decollete-chair__photo-02"]},{"title":"Karl","tag":"Стол / recycled plastic","desc":"Стол Karl вдохновлён галстуком-бабочкой. Основание выполнено из переработанного листового пластика, сформованного в сложной пресс-форме при температуре 110 °C. Проект задуман как интерьерная доминанта.","spec":[["Высота","75 см"],["Длина","227 см"],["Ширина","95 см"],["Материал основания","переработанный пластик"],["Доля вторичного пластика","около 70%"],["Публикация","INTERIORS the best"]],"keys":["karl__photo-01","karl__photo-02"]},{"title":"Elf / «Ангельское объятие»","tag":"Кресло / металл","desc":"Металлическое кресло «Ангельское объятие», также называемое Elf. Номинант международной премии A’Design Award & Competition.","spec":[["Материал","металл"],["Номинация","A’Design Award & Competition"]],"keys":["elf__photo-01","elf__photo-02"]},{"title":"Лампочка Ильича","tag":"Переносной светильник","desc":"Переносной светильник «Лампочка Ильича» — призёр конкурса «Российский светодизайн 2015», занявший второе место.","spec":[["Материалы","фанера, алюминий, светодиоды"],["Награда","2 место — Российский светодизайн 2015"]],"keys":["lampochka-ilicha__photo-01"]},{"title":"Miss Asia Kinney","tag":"Кресло / award winner","desc":"Кресло Miss Asia Kinney в тканевой обивке. Победитель международной премии Design and Design, Франция, 2015. Проект представлялся в галерее интерьеров «Твинстор», шоу-рум Trend Interior.","spec":[["Награда","Design and Design international award"],["Год","2015"],["Экспозиция","Твинстор / Trend Interior"]],"keys":["miss-asia-kinney__photo-01","miss-asia-kinney__photo-02","miss-asia-kinney__photo-03"]},{"title":"Lady G","tag":"Кресло с пуфом","desc":"Lady G — кресло с пуфом, победитель международной премии Design and Design. Корпус пуфа выполнен из стеклопластика, основание — стальное с деревянными накладками.","spec":[["Награда","Design and Design international award"],["Материалы пуфа","стеклопластик, сталь, дерево"]],"keys":["lady-g__photo-01","lady-g__photo-02","lady-g__photo-03"]},{"title":"SUPERGIRL","tag":"Стул-скульптура / нержавеющая сталь","desc":"SUPERGIRL — стул-скульптура из нержавеющей стали в образе облегающего платья, продолжение авторской коллекции «Серпантин». Проект участвовал в конкурсе Design Now журнала «Интерьер+Дизайн» в категории Art-design.","spec":[["Материал","нержавеющая сталь"],["Коллекция","Серпантин"],["Конкурс","Design Now / Art-design"]],"keys":["supergirl__photo-01","supergirl__photo-02","supergirl__photo-03"]},{"title":"Stefani-30","tag":"Скамья / музейный объект","desc":"Обновлённая скамья Stefani-30, первоначально созданная для конкурса компании Riva 1920. Работа представлена в Краснодарском краевом художественном музее им. Ф. А. Коваленко.","spec":[["Тип","скамья"],["Связанный конкурс","Riva 1920"],["Экспозиция","музей им. Ф. А. Коваленко"]],"keys":["stefani-30__photo-01","stefani-30__photo-02"]},{"title":"Скрепка","tag":"Светильник / минималистичный объект","desc":"«Скрепка» — аскетичный светильник в форме частично разогнутой канцелярской скрепки.","spec":[["Тип","светильник"],["Образ","канцелярская скрепка"]],"keys":["paperclip__photo-01"]},{"title":"8 Марта","tag":"Стул / арт-объект","desc":"Яркий розовый авторский стул — предмет с праздничным характером и выразительной пластикой.","spec":[["Тип","стул / арт-объект"]],"keys":["8-marta__photo-01"]},{"title":"LG2","tag":"Кресло / нержавеющая сталь","desc":"Кресло LG2 — авторский объект из нержавеющей стали с подчёркнутой металлической пластикой.","spec":[["Материал","нержавеющая сталь"],["Тип","кресло"]],"keys":["lg2__photo-01","lg2__photo-02","lg2__photo-03"]},{"title":"Sunglasses Gaga","tag":"Авторские очки / арт-объект","desc":"Sunglasses Gaga — авторские очки, собранные из нержавеющей стали, микросхемы и пластика.","spec":[["Материалы","нержавеющая сталь, микросхема, пластик"]],"keys":["sunglasses-gaga__photo-01"]},{"title":"A-YO / «Галстук»","tag":"Стул / Gentleman","desc":"Стул A-YO («Галстук», Gentleman) — призёр конкурса Forma 2017 на ИННОПРОМ в Екатеринбурге. Конструкция подходит в том числе для использования под открытым небом.","spec":[["Материалы","металл, эластичная лента, эвкалипт"],["Награда","призёр Forma 2017"],["Событие","ИННОПРОМ, Екатеринбург"]],"keys":["necktie-chair__photo-01","necktie-chair__photo-02","necktie-chair__photo-03"]},{"title":"Genesis","tag":"Светильник / Russian Lighting Design","desc":"Светильник Genesis олицетворяет зарождение новой фантазийной формы жизни. Проект занял второе место в конкурсе «Российский светодизайн» в сентябре 2019 года.","spec":[["Тип","светильник"],["Награда","2 место — Российский светодизайн"],["Год","2019"]],"keys":["genesis__photo-01","genesis__photo-02","genesis__photo-03"]},{"title":"Кресло 88","tag":"Кресло / Interior+Design finalist","desc":"Кресло «88» вошло в финал конкурса журнала Interior+Design в номинации Mass Products. Церемония премии проходила в Синема Парк Мосфильм.","spec":[["Тип","кресло"],["Статус","финалист Interior+Design"],["Номинация","Mass Products"]],"keys":["chair-88__photo-01","chair-88__photo-02","chair-88__photo-03"]},{"title":"Проект комода","tag":"Комод / mixed materials","desc":"Проект комода с сюрреалистичной сценографией фасадов. В отделке сочетаются натуральный мрамор античной пилястры, синее акриловое зеркало и наборное цветное стекло.","spec":[["Материалы","натуральный мрамор, акриловое зеркало, цветное стекло"],["Тип","комод / интерьерный объект"]],"keys":["commode-project__photo-01"]},{"title":"Ледокол","tag":"Обеденный стол / ильм и оксидированная сталь","desc":"Суровый обеденный стол «Ледокол» со столешницей из горного ильма и основанием из оксидированной стали в форме кристалла. Экспонировался на площадке Art Polygon.","spec":[["Длина","2,5 м"],["Высота","75 см"],["Столешница","горный ильм"],["Основание","оксидированная сталь"]],"keys":["icebreaker-2__photo-01"]}];(async function(){for(let i=1;i<=37;i++){const n=String(i).padStart(2,'0');const t=await fetch(`assets/new/img-${n}.js?v=1`).then(r=>r.text());(0,eval)(t)}const imgs=window.NEW_IMAGES||{};(window.NEW_OBJECTS||[]).forEach(p=>{p.images=p.keys.map(k=>imgs[k]).filter(Boolean);p.cover=p.images[0]||'';const c=document.createElement('article');c.className='card';const n=document.querySelectorAll('#grid .card').length+1;c.innerHTML=`<img src="${p.cover}" alt="${p.title}" loading="lazy"><div class="card-copy"><div class="card-code">Object / ${String(n).padStart(3,'0')}</div><h3>${p.title}</h3><p>${p.tag}</p></div>`;c.onclick=()=>openP(p);grid.appendChild(c)})})();
+(async()=>{
+  try{
+    const old=await fetch('https://raw.githubusercontent.com/kirill32278-web/shvets-design/d246f8049957ad0ff923885ab23b4269cfa635f2/assets/new/loader.js',{cache:'no-store'}).then(r=>r.text());
+    (0,eval)(old);
+  }catch(e){console.error('catalog loader backup failed',e)}
+
+  const apply=()=>{
+    if(document.getElementById('approved-shvets-layout')) return;
+    const style=document.createElement('style');
+    style.id='approved-shvets-layout';
+    style.textContent=`
+      :root{--approved-bg:#16222a;--approved-panel:#1b2830;--approved-text:#eef2f3;--approved-muted:#9aa6ac;}
+      html,body{background:#142029!important;color:var(--approved-text)!important;}
+      body{background-image:linear-gradient(180deg,#17242c 0,#121c23 100%)!important;background-attachment:fixed!important;}
+      body:before,body:after{opacity:.24!important;}
+      header{
+        position:absolute!important;top:0!important;left:0!important;right:0!important;z-index:50!important;
+        height:96px!important;padding:20px 3.2vw 0!important;
+        background:transparent!important;border:0!important;box-shadow:none!important;backdrop-filter:none!important;
+        align-items:flex-start!important;
+      }
+      .brand{font-size:18px!important;letter-spacing:.16em!important;line-height:1!important;font-weight:600!important;margin-top:9px!important;}
+      .brand small{font-size:10px!important;letter-spacing:.11em!important;margin-top:8px!important;color:#d4dadd!important;font-weight:400!important;}
+      .nav{gap:38px!important;margin-top:17px!important;}
+      .nav a{font-size:12px!important;letter-spacing:.08em!important;color:#eef2f3!important;font-weight:400!important;}
+      header>.btn{height:59px!important;padding:0 26px!important;margin-top:1px!important;font-size:11px!important;letter-spacing:.11em!important;background:rgba(14,24,30,.08)!important;border-color:rgba(231,238,241,.58)!important;}
+      .hero{
+        min-height:0!important;height:404px!important;display:block!important;position:relative!important;overflow:hidden!important;
+        border:0!important;background:
+          linear-gradient(90deg,rgba(12,22,28,.90) 0%,rgba(16,26,32,.72) 25%,rgba(35,49,58,.18) 48%,rgba(21,33,40,.12) 100%),
+          linear-gradient(180deg,#314049 0%,#17242c 100%)!important;
+      }
+      .hero:before{
+        content:""!important;position:absolute!important;inset:0!important;pointer-events:none!important;opacity:1!important;
+        background:
+          linear-gradient(90deg,transparent 0 30%,rgba(205,219,225,.08) 30.1%,transparent 30.4% 39%,rgba(225,235,239,.15) 39.1%,transparent 39.4% 47%,rgba(225,235,239,.10) 47.1%,transparent 47.4% 100%),
+          repeating-linear-gradient(90deg,rgba(255,255,255,.025) 0,rgba(255,255,255,.025) 1px,transparent 1px,transparent 125px)!important;
+      }
+      .hero-copy{
+        position:absolute!important;z-index:4!important;left:4.4vw!important;top:121px!important;width:390px!important;
+        padding:0!important;display:block!important;
+      }
+      .hero .micro{display:block!important;font:400 11px/1.2 Arial,sans-serif!important;letter-spacing:.10em!important;color:#c9d0d4!important;text-transform:uppercase!important;margin:0 0 21px!important;}
+      .hero .micro:before{display:none!important;}
+      .hero h1{font:300 27px/1.1 Arial,sans-serif!important;letter-spacing:.16em!important;margin:0 0 20px!important;text-transform:uppercase!important;white-space:nowrap!important;}
+      .hero h1 span{display:none!important;}
+      .hero .lead{font:400 14px/1.45 Arial,sans-serif!important;color:#c5ced2!important;max-width:360px!important;margin:0!important;}
+      .hero-actions{margin:28px 0 0!important;display:block!important;}
+      .hero-actions .btn{width:244px!important;height:42px!important;padding:0 20px!important;justify-content:flex-start!important;font-size:11px!important;letter-spacing:.10em!important;position:relative!important;background:rgba(19,30,36,.20)!important;border-color:rgba(232,239,242,.42)!important;}
+      .hero-actions .btn:after{content:'⟶'!important;position:absolute!important;right:20px!important;font-size:18px!important;font-weight:300!important;}
+      .hero-actions .textlink{display:none!important;}
+      .hero-visual{
+        position:absolute!important;z-index:2!important;inset:0 0 0 42%!important;min-height:0!important;height:404px!important;
+        display:flex!important;align-items:flex-end!important;justify-content:center!important;
+        background:
+          linear-gradient(90deg,rgba(110,127,136,.06),rgba(206,218,224,.10) 26%,rgba(57,74,83,.06) 64%,rgba(12,22,28,.08)),
+          repeating-linear-gradient(90deg,transparent 0 17%,rgba(233,240,243,.10) 17.2%,transparent 17.6% 27%)!important;
+      }
+      .hero-visual:before{inset:0!important;border:0!important;background:
+        radial-gradient(ellipse at 68% 70%,rgba(226,234,238,.18),transparent 31%),
+        linear-gradient(180deg,rgba(255,255,255,.04),rgba(7,14,18,.08))!important;}
+      .hero-visual img{height:390px!important;max-height:390px!important;max-width:77%!important;width:auto!important;object-fit:contain!important;object-position:center bottom!important;filter:drop-shadow(0 28px 28px rgba(0,0,0,.45)) saturate(.80) contrast(1.04)!important;}
+      .hero .objno,.hero .bottom-note{display:none!important;}
+      #works,.works-section{padding:27px 0 0!important;background:#17242c!important;border:0!important;}
+      #works .shell,.works-section .shell{width:calc(100% - 9.2vw)!important;max-width:none!important;margin:0 auto!important;}
+      #works .headrow,.works-section .headrow{margin:0 0 15px!important;display:flex!important;align-items:flex-start!important;justify-content:space-between!important;gap:20px!important;}
+      #works .headrow>div:first-child,.works-section .headrow>div:first-child{display:block!important;}
+      #works .headrow .micro,.works-section .headrow .micro{display:none!important;}
+      #works h2,.works-section h2{font:400 17px/1.15 Arial,sans-serif!important;letter-spacing:.20em!important;text-transform:uppercase!important;margin:0 0 5px!important;color:#eef2f3!important;}
+      #works .intro,.works-section .intro{font:400 12px/1.2 Arial,sans-serif!important;color:#7f8b91!important;margin:0!important;max-width:none!important;}
+      .approved-catalog-tools{display:flex;align-items:center;gap:16px;margin-top:-3px;color:#89969c;text-transform:uppercase;font:400 10px/1 Arial,sans-serif;letter-spacing:.13em;}
+      .approved-filter{height:34px;min-width:165px;border:1px solid rgba(225,235,239,.14);display:flex;align-items:center;justify-content:space-between;padding:0 13px;color:#8d999f;background:rgba(255,255,255,.015);}
+      .approved-grid-icon{width:28px;height:28px;display:grid;grid-template-columns:repeat(2,8px);grid-template-rows:repeat(2,8px);gap:3px;padding:3px;}
+      .approved-grid-icon i{border:1px solid rgba(211,223,228,.56);display:block;}
+      #grid{grid-template-columns:repeat(12,1fr)!important;gap:16px!important;margin-top:0!important;}
+      #grid .card{grid-column:span 3!important;}
+      @media(max-width:1200px){
+        header{padding-left:28px!important;padding-right:28px!important}.nav{gap:22px!important}.nav a{font-size:10px!important}
+        #grid .card{grid-column:span 4!important;}
+      }
+      @media(max-width:900px){
+        header{height:76px!important}.nav{display:none!important}.hero{height:500px!important}.hero-copy{top:110px!important;left:24px!important}.hero-visual{inset:0!important;height:500px!important;opacity:.5!important}.hero-visual img{height:460px!important;max-height:460px!important;max-width:95%!important}.hero-copy{width:calc(100% - 48px)!important}.hero h1{white-space:normal!important;font-size:25px!important}.hero .lead{max-width:330px!important}.approved-catalog-tools{display:none!important}#grid .card{grid-column:span 6!important;}}
+      @media(max-width:620px){#grid .card{grid-column:1/-1!important;}#works .shell,.works-section .shell{width:calc(100% - 28px)!important}.brand{font-size:15px!important}.brand small{font-size:8px!important}header>.btn{height:44px!important;font-size:9px!important;padding:0 14px!important}.hero-copy{top:105px!important}.hero h1{font-size:23px!important;letter-spacing:.12em!important}}
+    `;
+    document.head.appendChild(style);
+
+    const hero=document.querySelector('.hero');
+    if(hero){
+      const micro=hero.querySelector('.micro'); if(micro) micro.textContent='ДИЗАЙН С МЫСЛЬЮ О БУДУЩЕМ';
+      const h1=hero.querySelector('h1'); if(h1) h1.innerHTML='АВТОРСКИЕ ОБЪЕКТЫ';
+      const lead=hero.querySelector('.lead'); if(lead) lead.innerHTML='Коллекция предметов и арт-объектов из алюминия<br>и металла, созданных в уникальном стиле.<br>Каждое изделие — результат идеи, формы и<br>инженерной точности.';
+      const btn=hero.querySelector('.hero-actions .btn'); if(btn){btn.textContent='СМОТРЕТЬ КАТАЛОГ';btn.setAttribute('href','#works');}
+    }
+
+    const grid=document.getElementById('grid');
+    const works=grid?grid.closest('section'):document.getElementById('works');
+    if(works){
+      works.id='works'; works.classList.add('works-section');
+      const shell=grid?grid.closest('.shell'):works.querySelector('.shell');
+      if(shell){
+        let head=shell.querySelector('.headrow');
+        if(!head){head=document.createElement('div');head.className='headrow';shell.insertBefore(head,shell.firstChild);}
+        head.innerHTML=`<div><h2>КАТАЛОГ ОБЪЕКТОВ</h2><p class="intro">28 уникальных объектов</p></div><div class="approved-catalog-tools"><span>ФИЛЬТР:</span><div class="approved-filter"><span>ВСЕ КАТЕГОРИИ</span><span>⌄</span></div><span class="approved-grid-icon"><i></i><i></i><i></i><i></i></span></div>`;
+      }
+    }
+  };
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',apply,{once:true}); else apply();
+  setTimeout(apply,600);
+})();
